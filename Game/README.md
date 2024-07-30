@@ -8,3 +8,5 @@ This is a simple Dice Rolling Game written in C++. The game simulates rolling a 
 2. **Compile the code** using the following command:
    ```bash
    g++ DiceGame.cpp -o DiceGame
+
+   ![Screenshot of the Dice Rolling Game](images/Screenshot-2024-07-29.png)
