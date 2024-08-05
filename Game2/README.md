@@ -1,3 +1,5 @@
+![Screenshot of the Dice Rolling Game](images/Screenshot-2024-07-29.png)
+
 # Dice Rolling Game
 
 This is a simple Dice Rolling Game written in C++. The game simulates rolling a six-sided dice and displays the result.
