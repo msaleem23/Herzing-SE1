@@ -1,4 +1,4 @@
-![Screenshot of the Dice Rolling Game](images/Screenshot-2024-07-29.png)
+![Screenshot of the Dice Rolling Game](images/Game2.png)
 
 # Dice Rolling Game
 
