@@ -1,6 +1,6 @@
 # Hotel Management System
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot2.png)
 
 
 ## Overview
